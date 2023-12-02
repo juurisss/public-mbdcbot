@@ -1,0 +1,17 @@
+{
+  "name": "mbdcbot",
+  "version": "1.0.0",
+  "description": "Made By EjurisYT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.0",
+    "axios": "^0.23.0",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^13.16.0"
+  }
+}
