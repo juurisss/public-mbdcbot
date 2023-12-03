@@ -30,7 +30,7 @@ For Windows:
 3. After installing these, execute the following commands:
     ```
     git clone https://github.com/EjurisYY/public-mbdcbot
-    cd public-mbapiweblog
+    cd public-mbdcbot
     npm i
     ```
 4. Modify `config.js` as needed. You can open it with Notepad.
