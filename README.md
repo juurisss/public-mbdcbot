@@ -58,3 +58,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contact
 If you encounter any issues, please contact me via Discord at `ejurisyt`.
+
+### Visit my website!
+ [https://juriss.xyz/](https://juriss.xyz/) 
+ 
+ [https://mb.juriss.xyz/](https://mb.juriss.xyz/) 
