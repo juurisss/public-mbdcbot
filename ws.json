@@ -1,0 +1,8 @@
+{
+  "id": "public-mbdcbot",
+  "displayName": "MBDCBot",
+  "status": "archived",
+  "statusNote": "Archived. No longer actively maintained.",
+  "categories": ["minecraft", "automation"],
+  "featured": false
+}
